@@ -95,7 +95,7 @@
                 </tr>
 
                 <tr>
-                    <td>School</td>
+                    <td>School:</td>
                     <td><?php echo "{$school}"; ?> </td>
                 </tr>
 
